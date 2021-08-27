@@ -18,6 +18,7 @@ namespace Musica
             Console.WriteLine ("Se você tem um sonho no seu coração a sua vida tem uma razão nada vai impedir");
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("Que os seus sonhos se realize"); 
+            Console.ResetColor();
     
 
         }
